@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "main"
+      published_at: "2020-11-28"
+      updated_at: "2022-05-18"
+
+exclude:
+  - "*.config.js"
+  - "package*.json"
+  - assets
+  - _data/manifest.yml
+  - node_modules
+  - CNAME
+  - "Gemfile*"
+  - ".idea"
