@@ -10,8 +10,8 @@ defaults:
       published_at: "2020-11-28"
       updated_at: "2022-05-18"
 
-baseurl: "/getiptv/"
-url: "https://yoeunes.github.io/getiptv/"
+
+url: https://getiptelevision.com
 
 exclude:
   - "*.config.js"
