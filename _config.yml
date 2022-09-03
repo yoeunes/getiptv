@@ -15,10 +15,6 @@ url: https://getiptelevision.com
 
 exclude:
   - "*.config.js"
-  - "package*.json"
-  - assets
-  - _data/manifest.yml
-  - node_modules
   - CNAME
   - "Gemfile*"
   - ".idea"
